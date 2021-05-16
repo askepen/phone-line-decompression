@@ -10,4 +10,4 @@ I imaging traning a model using supervised learning, with a dataset consiting of
 Alternatively, we might be able to literally play the audio through a real world phone connection in order to obtain samples. This approach might be more expensive, but may also generate more accurate data.
 
 ## Application
-A practical application of this could be to integrate the machine learning model into an app or a phone OS. This way a person would be able to decrompress the incoming audio of phone conversations and have a natural sounding conversation. 
+A practical application of this could be to integrate the machine learning model into an app or a phone OS. This way a person would be able to decrompress the live incoming audio of phone conversations and have a natural sounding conversation. 
