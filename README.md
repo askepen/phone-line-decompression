@@ -5,7 +5,7 @@ As the compression used on the original audio signal is lossy, there is no way t
 
 
 ## Data
-I imaging traning a model using supervised learning, with a dataset consiting of pairs of compressed and uncompressed audio samples of human conversations. There are already large datasets of humans speech in different scenarios publically available. We will need to generate the compressed audio samples by running the original audio samples through a compression algorithm in order to simulate a phoneline. The exact compression algorithm to use, I am unsure of as of now. 
+I imaging traning a model using supervised learning, with a dataset consiting of pairs of compressed and uncompressed audio samples of human conversations. There are already [large datasets of humans speech](https://github.com/jim-schwoebel/voice_datasets) in different scenarios publically available. We will need to generate the compressed audio samples by running the original audio samples through a compression algorithm in order to simulate a phoneline. The exact compression algorithm to use, I am unsure of as of now. 
 
 Alternatively, we might be able to literally play the audio through a real world phone connection in order to obtain samples. This approach might be more expensive, but may also generate more accurate data.
 
