@@ -11,3 +11,11 @@ Alternatively, we might be able to literally play the audio through a real world
 
 ## Application
 A practical application of this could be to integrate the machine learning model into an app or a phone OS. This way a person would be able to decrompress the live incoming audio of phone conversations and have a natural sounding conversation. 
+
+## Related work
+- [Phase-aware Speech Enhancement with Deep Complex U-Net](https://arxiv.org/abs/1903.03107v1) (Hyeong-Seok, et. al.)
+- [https://blog.insightdatascience.com/using-deep-learning-to-reconstruct-high-resolution-audio-29deee8b7ccd](this)
+- https://ieeexplore.ieee.org/abstract/document/7251945
+- https://ieeexplore.ieee.org/document/7336890
+- https://openreview.net/pdf?id=S1gNakBFx
+- 
